@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.programminglanguage.vibgyor.MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:text="red"
+        android:background="@color/red"
+        android:id="@+id/textviolet" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:text="orange"
+        android:background="@color/orange"
+        android:id="@+id/textindigo" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:text="yellow"
+        android:background="@color/yellow"
+        android:id="@+id/txtblue" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:text="green"
+        android:background="@color/green"
+        android:id="@+id/txtgreen" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:text="blue"
+        android:background="@color/blue"
+        android:id="@+id/txtyellow" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:text="indigo"
+        android:background="@color/indigo"
+        android:id="@+id/txtorange" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:text="violet"
+        android:background="@color/violet"
+        android:id="@+id/txtred" />
+
+</LinearLayout>
